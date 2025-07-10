@@ -52,9 +52,6 @@ The solving algorithm is not optimized for minimal moves but guarantees a soluti
 
 All rendering is text-based for simplicity (can be extended to graphical representation).
 
-📸 Screenshots
-Scrambled Cube	Solving Steps
-
 ✨ Future Improvements
 Add graphical cube rendering with colored squares.
 
@@ -63,7 +60,7 @@ Implement optimal solving algorithms (Kociemba, CFOP, etc.).
 Add support for keyboard controls and animations.
 
 👨‍💻 Author
-Your Name
+Vikas Shukla
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
