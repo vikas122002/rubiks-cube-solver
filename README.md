@@ -8,7 +8,7 @@ The project focuses on:
 ✅ Fully runnable in the browser without any dependencies
 
 🚀 Demo
-👉 Live Demo: https://yourusername.github.io/rubiks-cube-solver/
+👉 Live Demo: https://vikas122002.github.io/rubiks-cube-solver/
 
 📦 Features
 🧱 Object-Oriented Cube Representation
